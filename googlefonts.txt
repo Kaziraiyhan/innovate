@@ -1,2 +1,3 @@
 font-family: 'Open Sans', sans-serif;
 font-family: 'Paprika', cursive;
+font-family: 'Work Sans', sans-serif;
